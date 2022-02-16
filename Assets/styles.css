@@ -72,13 +72,12 @@ section {
 
 /* Hero Style Start */
 .hero {
-  background-image: url('file:///C:/Users/kayla/Desktop/projects/runbuddy1/Assets/Images/hero-bg%2011.jpg');
-  height: 600px;
+  background-image: url('C:\Users\kayla\Desktop\projects\runbuddy1\Assets\Images\hero-bg.jpg');
   background-size: cover;
   background-position: center;
   position: relative;
+  height: 600px;
 }
-/* Hero Style End */
 
 .hero-form {
   border: 3px solid #024e76;
